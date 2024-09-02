@@ -1,0 +1,6 @@
+Read: 5.006
+Flip: 4.259
+Blur: 3.044
+Purple: 3.518
+Lines: 0.035
+Execution: 2.805

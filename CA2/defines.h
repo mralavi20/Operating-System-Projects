@@ -1,0 +1,14 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+
+#define ELEC_CODE 1
+#define GAS_CODE 2
+#define WATER_CODE 3
+#define SELECTED_MESSAGE 1
+#define NOT_SELECTED_MESSAGE 0
+#define MOUNTHS_NUMBER 12
+#define HOURS_NUMBER 6
+#define DAYS_NUMBERS 30
+#define SOURCES_NUMBER 3
+
+#endif
